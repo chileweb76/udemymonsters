@@ -36,6 +36,7 @@ const Homepage = () => {
 
     return (
         <>
+            <a href='https://christopherhile.com/'>Return to Christopher Hile</a>
             <h1>Monster Rolodex</h1>
             <SearchBox 
                 className = 'searchMonsters'
