@@ -1,5 +1,6 @@
 {
   "name": "monsters",
+  "homepage": "https://monsters.christopherhile.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
